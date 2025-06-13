@@ -29,5 +29,3 @@ This is a console-based Bank Management System developed using C++. The applicat
 - User identity via **CNIC** (Computerized National Identity Card)
 - Bank name and context based on **State Bank of Pakistan**
 
-## 📁 Project Structure
-
